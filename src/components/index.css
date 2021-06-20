@@ -1,0 +1,28 @@
+.home-name{
+    color: azure;
+    font-size: 7.5vh;
+    text-align: center;
+}
+.home-title{
+    color: azure;
+    font-size: 3.4vh;
+    text-align: center;
+}
+.navbar-content{
+    color: azure;
+    font-size: x-large;
+    text-align: end !important;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+.navbar-brand{
+    color: azure !important;
+    font-size: x-large !important;
+}
+.home-icons{
+    padding-left: 0.5vw;
+    padding-right: 0.5vw;
+}
+.index{
+    background-color: rgba(0, 0, 0, 0);
+}

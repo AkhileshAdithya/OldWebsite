@@ -1,0 +1,39 @@
+.backgrounderror-name-pnf{
+    color: aliceblue;
+    position: absolute;
+    top: 84%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 100vw;
+    font-size: xx-large;
+}
+
+canvas{
+    width: 100vw;
+    height: 100vh;
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -9999;
+}
+.backgrounderror-name-home{
+    color: rgb(88, 177, 255);
+    text-decoration: none;
+    transition: 0.3s;
+    position: absolute;
+    top: 90%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 100vw;
+    font-size: x-large;
+}
+.backgrounderror-name-link{
+    text-decoration: none;
+}
+.backgrounderror-name-link:hover{
+    scale: 110%;
+    text-decoration: none;
+}

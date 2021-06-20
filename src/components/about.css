@@ -1,0 +1,68 @@
+.about-year{
+    color: white;
+}
+.about{
+    background-color: rgba(0, 0, 0, 0.75);
+}
+.about-intro{
+    color: white;
+    font-size: 4.5vh;
+    padding-bottom: 2.5vh;
+    padding-top: 3.5vh;
+}
+.about-title{
+    color: white;
+    font-size: 3.8vh;
+    padding-bottom: 2vh;
+}
+.about-text{
+    color: white;
+    font-size: 1.9vh;
+    padding-bottom: 3vh;
+    padding-left: 4vw;
+    padding-right: 4vw;
+}
+.about-text2{
+    color: white;
+    font-size: 1.9vh;
+    padding-bottom: 2.5vh;
+}
+.about-text-white{
+    color: white;
+}
+.about-subtitle{
+    color: white;
+    font-size: 2.3vh;
+    padding-bottom: 1.5vh;
+    font-weight: bold;
+    padding-left: 6vw;
+    padding-right: 6vw;
+}
+.about-bottom{
+    padding-bottom: 2vh;
+    margin-bottom: 3vh;
+}
+.about-bar{
+    padding-bottom: 3.6vh;
+}
+.about-icon-holder{
+    margin: 0%;
+}
+.about-icons{
+    font-size: 7vh;
+    color: white;
+}
+.about-icon-text{
+    text-align: center;
+    color: white;
+    padding-bottom: 3vh;
+}
+.about-spacing-big{
+    padding-bottom: 5vh;
+}
+.about-spacing-small{
+    padding-bottom: 2vh;
+}
+.about-image{
+    border-radius: 50%;
+}
