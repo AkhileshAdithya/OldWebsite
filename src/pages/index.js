@@ -21,13 +21,13 @@ const IndexPage = () => (
       <SEO title="Homepage" description="Akhilesh Adithya is Student | Web Designer | Developer" />
       <Background />
       <Navbar expand="md" variant="dark" collapseOnSelect={true}>
-        <a href="https://akhileshadithya.github.io/"><Navbar.Brand>Akhilesh Adithya</Navbar.Brand></a>
+        <a href="https://akhileshadithya.github.io/OldWebsite"><Navbar.Brand>Akhilesh Adithya</Navbar.Brand></a>
         <Navbar.Toggle aria-controls="navbar-nav" />
         <Navbar.Collapse id="navbar-nav">
           <Nav className="mr-auto"></Nav>
           <Nav>
-            <a href="https://akhileshadithya.github.io/about"><div className="navbar-content">About</div></a>
-            <a href="https://akhileshadithya.github.io/projects"><div className="navbar-content">Projects</div></a>
+            <a href="https://akhileshadithya.github.io/OldWebsite/about"><div className="navbar-content">About</div></a>
+            <a href="https://akhileshadithya.github.io/OldWebsite/projects"><div className="navbar-content">Projects</div></a>
             <a href="https://akhileshadithya.github.io/xertz"><div className="navbar-content">Xertz</div></a>
           </Nav>
         </Navbar.Collapse>

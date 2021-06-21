@@ -1,6 +1,8 @@
 const path = require(`path`);
 
 module.exports = {
+  
+  pathPrefix: `/OldWebsite`, 
   siteMetadata: {
     title: `Akhilesh Adithya`,
     description: `The personal website of Akhilsh Adithya. Contains Projects, Homepage, About and other stuff. Also contains Akhilesh's list of recommended books`,
